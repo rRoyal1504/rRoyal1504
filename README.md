@@ -26,6 +26,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Portfolio Website**](https://rroyalthedev.vercel.app/) | My personal web portfolio showcasing projects & resume | HTML, CSS (Tailwind) |
+| [**THPTQG Countdown**](https://rroyal1504.github.io/thptqg-countdown/) | Live countdown to Vietnam's national high school graduation exam | HTML, CSS, JS |
+| [**Học bạ Calculator**](https://rroyal1504.github.io/hocba-calculator/) | Calculate GPA & priority score for university entrance | HTML, CSS, JS |
 | **Incident Detection System** | Sensor + AI powered accident detection & camera verification | Python, OpenCV, AI |
 | **CTF Tools Suite** | Educational security tools for pentesting practice | Python, Bash |
 
