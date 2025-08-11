@@ -43,7 +43,7 @@
 <p>
   <a href="mailto:amrroyalthedev@gmail.com"><img src="https://img.shields.io/badge/Email-%23ec4899.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://https://rroyalthedev.vercel.app/"><img src="https://img.shields.io/badge/Website-%23a855f7.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://rroyalthedev.vercel.app/"><img src="https://img.shields.io/badge/Website-%23a855f7.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
