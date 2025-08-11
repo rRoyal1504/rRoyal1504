@@ -25,7 +25,7 @@
 ## 📂 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Portfolio Website**](https://your-portfolio-link.com) | My personal web portfolio showcasing projects & resume | HTML, CSS (Tailwind) |
+| [**Portfolio Website**](https://rroyalthedev.vercel.app/) | My personal web portfolio showcasing projects & resume | HTML, CSS (Tailwind) |
 | **Incident Detection System** | Sensor + AI powered accident detection & camera verification | Python, OpenCV, AI |
 | **CTF Tools Suite** | Educational security tools for pentesting practice | Python, Bash |
 
