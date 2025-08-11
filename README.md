@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-portfolio-link.com/og-cover.png" alt="Banner" width="100%" />
+  <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#a855f7">Khoa</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#a855f7">rRoyal</span> 👋</h1>
 <h3 align="center">Cybersecurity Researcher • Full-stack Developer • Competitive Programmer</h3>
 
 ---
