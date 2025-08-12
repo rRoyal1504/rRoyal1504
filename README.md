@@ -9,9 +9,10 @@
 ---
 
 ## 🚀 About Me
-- 🔒 Specialized in **Cybersecurity**, competitive programming & full-stack solutions.
-- 🏆 Experienced in **RAT/Trojan** (educational), obfuscation, and advanced algorithms.
-- 📈 Passionate about security, automation, and AI-driven innovation.
+- 🔒 Work deeply in **Cybersecurity**, focusing on exploitation, vulnerability analysis, and patching.
+- 🏆 Experienced in building **RAT/Trojan** (for educational purposes), obfuscation tools, and optimized algorithms.
+- 🛠 Regularly develop automation and AI-powered solutions for real-world problems.
+- 🎯 Prefer hands-on, practical projects over theoretical concepts.
 
 ---
 
