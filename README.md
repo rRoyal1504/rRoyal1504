@@ -97,7 +97,6 @@ Automated GPA & university entrance score calculation tool.
 
 - 📧 Email: amrroyalthedev@gmail.com  
 - 🌐 Portfolio: https://rroyalthedev.vercel.app  
-- 🔗 LinkedIn: (update actual link)
 
 ---
 
