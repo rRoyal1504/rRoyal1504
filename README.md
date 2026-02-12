@@ -14,7 +14,7 @@
 
 ## ⚔️ Operator Overview
 
-I focus on **offensive security and adversary emulation**, building tools and workflows that simulate real-world attack paths rather than theoretical vulnerabilities.
+I focus on **offensive security and adversary emulation**, building tools and workflows that simulate real-world attack paths.
 
 My work emphasizes:
 
@@ -32,9 +32,8 @@ I prefer depth over surface. Execution over theory.
 
 - Active Directory exploitation & trust relationships  
 - Reverse engineering & binary analysis  
-- Detection bypass strategies (lab environment only)  
+- Detection bypass strategies
 - Attack surface automation  
-- Competitive C++ problem solving (algorithmic performance focus)  
 
 ---
 
