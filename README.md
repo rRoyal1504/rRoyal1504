@@ -1,40 +1,91 @@
-<!-- Banner -->
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#a855f7">rRoyal</span> 👋</h1>
-<h3 align="center">Cybersecurity Researcher • Full-stack Developer • Competitive Programmer</h3>
+<h1 align="center">
+  <span style="font-size: 32px;">Huynh Tuan Khoa</span>
+</h1>
+
+<h3 align="center">
+  Offensive Security • Cybersecurity Research • Systems Engineering
+</h3>
 
 ---
 
-## 🚀 About Me
-- 🔒 Work deeply in **Cybersecurity**, focusing on exploitation, vulnerability analysis, and patching.
-- 🏆 Experienced in building **RAT/Trojan** (for educational purposes), obfuscation tools, and optimized algorithms.
-- 🛠 Regularly develop automation and AI-powered solutions for real-world problems.
-- 🎯 Prefer hands-on, practical projects over theoretical concepts.
+## ⚔️ Operator Overview
+
+I focus on **offensive security and adversary emulation**, building tools and workflows that simulate real-world attack paths rather than theoretical vulnerabilities.
+
+My work emphasizes:
+
+- Privilege escalation & lateral movement mechanics  
+- Vulnerability discovery and exploit analysis  
+- Defense evasion research  
+- Custom tooling & automation for security operations  
+- Systems-level understanding (C++ / low-level behavior)
+
+I prefer depth over surface. Execution over theory.
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,tailwind,react,nodejs,mysql,git,linux" />
-</p>
+## 🧠 Current Focus Areas
+
+- Active Directory exploitation & trust relationships  
+- Reverse engineering & binary analysis  
+- Detection bypass strategies (lab environment only)  
+- Attack surface automation  
+- Competitive C++ problem solving (algorithmic performance focus)  
 
 ---
 
-## 📂 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Portfolio Website**](https://rroyalthedev.vercel.app/) | Personal web portfolio with projects & resume | HTML, CSS (Tailwind) |
-| [**THPTQG Countdown**](https://rroyal1504.github.io/thptqg-countdown/) | Live countdown to Vietnam's high school graduation exam | HTML, CSS, JS |
-| [**Học bạ Calculator**](https://rroyal1504.github.io/hocba-calculator/) | GPA & priority score calculator for university entrance | HTML, CSS, JS |
-| **Incident Detection System** | Sensor + AI accident detection & verification | Python, OpenCV, AI |
-| **CTF Tools Suite** | Security tools for pentesting practice | Python, Bash |
+## 🛠 Technical Arsenal
+
+### Languages
+`C++` `Python` `Rust` `Bash` `PowerShell`
+
+### Security Tools
+`Burp Suite` `Nmap` `Metasploit` `BloodHound` `Ghidra` `Wireshark`
+
+### Web & Software Engineering
+`React` `Node.js` `Tailwind` `MySQL` `Linux`
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Work
+
+### 🔎 Offensive Security Projects
+
+**CTF Tools Suite**
+> Custom-built security tooling for lab-based penetration testing practice, automation workflows, and vulnerability validation.
+
+**Incident Detection System**
+> Sensor-integrated AI verification system for incident recognition and contextual validation using OpenCV.
+
+---
+
+### 🌐 Engineering Projects
+
+**Portfolio Website**  
+Personal web portfolio with project showcase and security-focused branding.
+
+**THPTQG Countdown**  
+Real-time exam countdown system with dynamic rendering.
+
+**Học bạ Calculator**  
+Automated GPA & university entrance score calculation tool.
+
+---
+
+## 📊 Competitive Programming
+
+- Strong background in algorithm design & optimization  
+- Heavy template-based C++ competitive programming workflow  
+- Performance-focused data structures & problem-solving  
+
+---
+
+## 📈 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rRoyal1504&show_icons=true&hide_border=true&bg_color=0e1224&title_color=a855f7&icon_color=ec4899&text_color=eef1ff" height="150" />
   <img src="https://streak-stats.demolab.com?user=rRoyal1504&theme=radical&hide_border=true&background=0e1224&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" height="150" />
@@ -42,13 +93,12 @@
 
 ---
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:amrroyalthedev@gmail.com"><img src="https://img.shields.io/badge/Email-%23ec4899.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rroyalthedev.vercel.app/"><img src="https://img.shields.io/badge/Website-%23a855f7.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+## 📫 Contact
+
+- 📧 Email: amrroyalthedev@gmail.com  
+- 🌐 Portfolio: https://rroyalthedev.vercel.app  
+- 🔗 LinkedIn: (update actual link)
 
 ---
 
-> ⚡ “Secure, innovative solutions & competitive programming.”
+> “Security is not compliance. It is resistance.”
