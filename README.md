@@ -67,12 +67,6 @@ I prefer depth over surface. Execution over theory.
 **Portfolio Website**  
 Personal web portfolio with project showcase and security-focused branding.
 
-**THPTQG Countdown**  
-Real-time exam countdown system with dynamic rendering.
-
-**Học bạ Calculator**  
-Automated GPA & university entrance score calculation tool.
-
 ---
 
 ## 📊 Competitive Programming
