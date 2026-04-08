@@ -89,7 +89,7 @@ Personal web portfolio with project showcase and security-focused branding.
 ## 📫 Contact
 
 - 📧 Email: amrroyalthedev@gmail.com  
-- 🌐 Portfolio: https://rroya.xyz
+- 🌐 Portfolio: https://rroyal.xyz
 
 ---
 
